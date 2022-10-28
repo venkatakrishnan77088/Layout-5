@@ -1,0 +1,186 @@
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+
+
+
+
+.header{
+	background-color:white;
+}
+.header-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#44484b;
+}
+.header-fc .logo{
+	width:20%;
+	text-align:left;
+	height:29px;
+}
+.header-fc .navi{
+	width:60%;
+	height:29px;
+	text-align:right;
+}
+.welcome{
+	background-color:white;
+}
+.welcome-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#8DC0EA;
+}
+.welcome-fc .welcome-head{
+	width:100%;
+	height:164px;
+	text-align:center;
+}
+.welcome-fc .welcome-para{
+	width:100%;
+	height:108px;
+	text-align:center;
+}
+.welcome-fc .get-start{
+	border:1px red solid;
+	padding:10px;
+	margin-left:50%;
+	text-align:center;
+}
+.sub-part{
+	background-color:white;
+}
+.sub-part-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#AFD513;
+}
+.sub-part-fc .sub-para{
+	width:48%;
+	height:551px;
+	background-color:#C3D513;
+	text-align:center;
+}
+.sub-part-fc .sub-form
+{
+	width:48%;
+	height:551px;
+	text-align:center;
+}
+.construct{
+	background-color:white;
+}
+.construct-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+
+}
+.construct-fc .construct-head{
+	width:100%;
+	height:38px;
+	text-align:center;
+}
+.construct-fc .construct-para
+{
+	width:100%;
+	text-align:center;
+	height:48px;
+}
+.construct-fc .construct-pic{
+	width:20%;
+	height:300px;
+	background-color:green;
+}
+.survice{
+	background-color:white;
+}
+.service-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	background-color:white;
+}
+.service-fc .sub-head{
+	width:100%;
+	height:38px;
+	text-align:center;
+}
+.service-fc .sub-para{
+	width:100%;
+	height:48px;
+	text-align:center;
+}
+	
+.survice-pic
+{
+	background-color:white;
+}
+
+.service-pic-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	background-color:white;
+}
+.service-pic-fc .service-img{
+	width:30%;
+	height:347px;
+	background-color:#E67E22;
+}
+
+.survice-blog{
+	background-color:white;
+}
+.survice-blog-fc{
+	display:flex;
+	background-color:#E67E22;
+	justify-content:space-between;
+	
+}
+.survice-blog-fc .survice-blog-text{
+	background-color:#979A9A;
+	height:737px;
+	width:40%;
+}
+.survice-blog-fc .survice-blog-img{
+	height:737px;
+    width:40%;
+}
+
+.recent-post{
+	background-color:white;
+}
+.recent-fc{
+	background-color:#943126;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.recent-fc .recent-head{
+	width:100%;
+	height:140px;
+}
+.recent-fc .recent-photo{
+	background-color:#A2D9CE;
+	text-align:center;
+	width:33.33%;
+	height:560px;
+}
+.footer
+{
+	background-color:white;
+}
+.footer-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:white;
+	text-align:center;
+}
+.footer-fc .footer-sub-head{
+	height:254px;
+	width:20px;
+	background-color:#2d2f32;
+	text-align:center;
+}
